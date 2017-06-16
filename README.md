@@ -23,7 +23,7 @@
 
 ## Research Track Wiki
 * For simple collaborative notes and other shared content
-* https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki
+* [https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki](https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki)
 
 
 
