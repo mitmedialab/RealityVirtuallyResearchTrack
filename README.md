@@ -1,4 +1,4 @@
-# Research Day](https://mitmedialab.github.io/RealityVirtuallyResearchTrack) at the [2017 RealityVirtually Hackathon](http://www.realityvirtuallyhack.com)
+# [Research Day](https://mitmedialab.github.io/RealityVirtuallyResearchTrack) at the [2017 RealityVirtually Hackathon](http://www.realityvirtuallyhack.com)
 ### Monday, October 9th at the MIT Media Lab
 
 ## Research Track Themes
