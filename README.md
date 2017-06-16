@@ -14,16 +14,19 @@
 
 * Design and deploy valid, reproducible VR/AR research studies: issues/options/opportunities (Practical)
 
-
 ## Research Track Planning/Prep
 
-* Initial team hangouts: Thursday,  June 22 at 5pm Eastern.  
+* Initial team hangouts: Thursday,  June 22 at 5pm Eastern 
 * Are you an AR/VR researcher?  Are you involved in AR/VR research?  Join the research track planning group by contacting the [hackathon event organizer](http://www.realityvirtuallyhack.com) to get involved.  
 * Are you an MIT Media Lab or other MIT researcher? You may [Dazza Greenwood](http://law.mit.edu/contact) for more information and to get involved.
 
 ## Research Track Wiki
 * For simple collaborative notes and other shared content
 * [https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki](https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki)
+
+### Research Survey
+
+* See: [https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki/Research-Survey](https://github.com/mitmedialab/RealityVirtuallyResearchTrack/wiki/Research-Survey)
 
 
 
