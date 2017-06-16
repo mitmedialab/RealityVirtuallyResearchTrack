@@ -1,6 +1,5 @@
 # [AR/VR Research Day](https://mitmedialab.github.io/RealityVirtuallyResearchTrack) 
-#### Monday, October 9th, 2017 at the MIT Media Lab
-#### AR/VR Research Day is part of the [2017 RealityVirtually Hackathon](http://www.realityvirtuallyhack.com)
+**Monday, October 9th, 2017 at the MIT Media Lab as part of the [2017 RealityVirtually Hackathon](http://www.realityvirtuallyhack.com)**
 
 
 ## Research Track Themes
