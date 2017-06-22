@@ -1,8 +1,9 @@
-# Pre-Event Activities and Community Engagement
+# Pre-Event Community Engagement
 
+Candidate pre-event activities: 
 * Research Track Hangouts
 * Online Sharing of Tutorials 
-* Wiki-Based Topics and Idea Flow
+* Wiki-Based Link Sharing of Articles/News/etc
 
 # Propose a Session or Activity
 
