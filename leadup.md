@@ -1,5 +1,7 @@
 # Pre-Event Community Engagement
 
+* This wiki uses Markdown.  Learn more here: https://guides.github.com/features/mastering-markdown/
+
 Candidate pre-event activities: 
 * Research Track Hangouts
 * Online Sharing of Tutorials 
